@@ -1,6 +1,6 @@
 #2 useEffect
  
-##2.0 Introduction to useEffect
+##2 Introduction to useEffect
  
 ###2.1 useTitle
  
